@@ -1,0 +1,34 @@
+
+/* Barra de Navegacion */
+.barraNavegacion{
+    background-color: #0069a4;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    width: 100vw;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+}
+
+.logoArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+.nombreEmpresa{
+    color: antiquewhite;
+    font-size: x-large;
+    font-style: oblique;
+}
