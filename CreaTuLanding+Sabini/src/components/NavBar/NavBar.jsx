@@ -1,4 +1,4 @@
-import logo from "./logo.jpeg"
+import logo from "./logo.png"
 import CartWidget from "../CartWidget/CartWidget"
 import estilo from "./NavBar.module.css"
 

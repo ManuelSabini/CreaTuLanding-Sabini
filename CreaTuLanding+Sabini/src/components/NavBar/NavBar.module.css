@@ -13,7 +13,7 @@
 }
 
 .logo{
-    width: 50px;
+    width: 70px;
     height: auto;
 }
 
@@ -21,14 +21,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50px;
-    width: 50px;
-    border-radius: 25px;
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
     border: 2px solid black;
 }
 
 .nombreEmpresa{
     color: antiquewhite;
-    font-size: x-large;
+    font-size: xx-large;
     font-style: oblique;
 }
